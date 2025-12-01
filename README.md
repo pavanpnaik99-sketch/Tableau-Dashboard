@@ -4,5 +4,5 @@ This dashboard includes key sales metrics, profit performance and return rate. I
 ## Dataset Used
 - <a href="https://github.com/pavanpnaik99-sketch/Tableau-Dashboard/blob/main/sample_-_superstore.xls">sample_super_store Dataset</a>
 
-##dashboard
+dashboard
 -<a href="https://github.com/pavanpnaik99-sketch/Tableau-Dashboard/blob/main/Dashboard.twbx">Dashboard</a>
