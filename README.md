@@ -119,9 +119,7 @@ The notebook ensures the data used in Tableau is **clean, accurate, and reliable
 
 
 ---
+![Dashboard](https://github.com/pavanpnaik99-sketch/Tableau-Dashboard/blob/main/Tableau_Dashboard.png)
 
-<p align="center">
-  <img src="https://github.com/pavanpnaik99-sketch/Tableau-Dashboard/blob/main/Tableau_Dashboard.png/>
-</p>
 
 
